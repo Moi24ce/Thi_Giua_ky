@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231371991142",
+    "project_id": "thi-giua-ky-88fcb",
+    "storage_bucket": "thi-giua-ky-88fcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231371991142:android:1fc192f54823c37bb8e5a7",
+        "android_client_info": {
+          "package_name": "com.example.thi_giua_ky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh1rWzczDBcz424VielClrEGpTRUSbfGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
